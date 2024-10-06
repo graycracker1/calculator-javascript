@@ -1,2 +1,2 @@
 # calculator-javascript
- simple static calculator to test javascript skill
+ simple static calculator in javascript
